@@ -3,6 +3,7 @@
 ## Overview
 
 This is a simple Android calculator app built using Java. The app allows users to perform basic arithmetic operations and provides a user-friendly interface.
+
 ![Image](https://github.com/user-attachments/assets/c8ae930c-b00a-4897-aeb1-c9acd49b78f0)
 
 
